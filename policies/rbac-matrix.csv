@@ -1,0 +1,8 @@
+Role,Department,Group,Access Type,AWS Permission Set,Risk Level,Review Frequency
+Cloud Engineer,IT,GG-AWS-CloudEngineer,Standard Cloud Access,CloudEngineer-PS,Medium,Quarterly
+Security Analyst,Security,GG-SecurityAnalyst,Security Read Access,SecurityAnalyst-PS,Medium,Quarterly
+IAM Admin,Security,GG-IAM-Admin,Privileged IAM Access,IAMAdmin-PS,High,Monthly
+Finance Analyst,Finance,GG-Finance,Finance Application Access,FinanceApp-PS,Low,Quarterly
+Contractor,Vendor,GG-Contractor,Restricted Temporary Access,Contractor-PS,High,Monthly
+Break Glass Admin,Security,GG-BreakGlass,Emergency Privileged Access,BreakGlass-PS,Critical,Monthly
+Service Account,IT,GG-ServiceAccounts,System Access,ServiceAccount-PS,High,Monthly

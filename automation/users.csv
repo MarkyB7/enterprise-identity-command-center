@@ -1,0 +1,6 @@
+name,email,department,role,employment_type,status
+Sarah Finance,sarah.finance@demo.local,Finance,Finance Analyst,Employee,Active
+James Cloud,james.cloud@demo.local,IT,Cloud Engineer,Employee,Active
+Tina Security,tina.security@demo.local,Security,Security Analyst,Employee,Active
+Chris Vendor,chris.vendor@demo.local,Vendor,Contractor,Contractor,Active
+Alex Admin,alex.admin@demo.local,Security,IAM Admin,Employee,Active

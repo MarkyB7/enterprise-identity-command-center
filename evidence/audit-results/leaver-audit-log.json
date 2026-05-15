@@ -1,0 +1,14 @@
+{
+    "timestamp": "2026-05-15T01:03:42.025884Z",
+    "action": "DEPROVISION",
+    "name": "Chris Vendor",
+    "email": "chris.vendor@demo.local",
+    "role": "Contractor",
+    "account_disabled": true,
+    "groups_removed": true,
+    "permission_sets_revoked": true,
+    "active_sessions_terminated": true,
+    "mfa_tokens_revoked": true,
+    "risk_level": "High",
+    "status": "Access Revoked"
+}

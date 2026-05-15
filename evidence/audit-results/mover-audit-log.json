@@ -1,0 +1,15 @@
+{
+    "timestamp": "2026-05-15T00:26:13.142123Z",
+    "action": "ROLE_CHANGE",
+    "name": "James Cloud",
+    "email": "james.cloud@demo.local",
+    "old_role": "Cloud Engineer",
+    "new_role": "IAM Admin",
+    "removed_group": "GG-AWS-CloudEngineer",
+    "assigned_group": "GG-IAM-Admin",
+    "removed_permission_set": "CloudEngineer-PS",
+    "assigned_permission_set": "IAMAdmin-PS",
+    "risk_level": "High",
+    "approval_required": true,
+    "status": "Role Updated"
+}

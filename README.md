@@ -43,6 +43,12 @@ This project was designed to simulate how enterprise IAM teams solve these probl
 
 # Architecture Overview
 
+The following diagram illustrates the end-to-end enterprise Identity and Access Management (IAM) architecture integrating Microsoft Entra ID with AWS IAM Identity Center using SAML federation, SCIM provisioning, RBAC governance, permission sets, and automated lifecycle management workflows.
+
+The environment was designed around Zero Trust principles, centralized identity governance, least privilege access control, and enterprise cloud authorization methodologies.
+
+![Enterprise IAM Architecture](evidence/screenshots/day3/00-enterprise-iam-architecture-diagram.png)
+
 ## Core Components
 
 | Component               | Purpose                                        |

@@ -113,6 +113,10 @@ Benefits:
 * Reduced privilege inconsistency
 * Better lifecycle management
 
+![RBAC Groups](evidence/screenshots/day3/16-entra-rbac-groups.png)
+
+![AWS Permission Sets](evidence/screenshots/day3/17-aws-permission-sets.png)
+
 ---
 
 ## Least Privilege Enforcement
@@ -144,6 +148,7 @@ Capabilities:
 * Assigns permission sets
 * Enforces MFA requirements
 * Generates audit logs
+![Joiner Workflow](evidence/screenshots/day1/08-joiner-automation-execution.png)
 
 ---
 
@@ -157,6 +162,7 @@ Capabilities:
 * Assigns new groups and permission sets
 * Recalculates risk level
 * Generates governance audit evidence
+![Mover Workflow](evidence/screenshots/day2/10-mover-workflow-execution.png)
 
 ---
 
@@ -172,6 +178,7 @@ Capabilities:
 * Terminates active sessions
 * Revokes MFA tokens
 * Generates audit evidence
+![Leaver Workflow](evidence/screenshots/day2/12-leaver-workflow-execution.png)
 
 ---
 
@@ -186,7 +193,7 @@ Federation capabilities:
 * Reduced cloud-native identity sprawl
 * Enterprise SSO architecture
 * Centralized access governance
-
+![SAML Federation](evidence/screenshots/day3/15-successful-aws-federation-configuration.png)
 ---
 
 # SCIM Provisioning
@@ -204,6 +211,7 @@ Note:
 
 Group assignment provisioning was partially limited by Microsoft Entra licensing constraints in the lab environment. Architectural design and provisioning workflows were still fully implemented and documented.
 
+![SCIM Provisioning](evidence/screenshots/day3/19-successful-scim-provisioning-connection.png)
 ---
 
 # AWS Permission Sets
@@ -264,21 +272,10 @@ Audit artifacts include:
 * IAM standards
 * Architecture decision records
 * Federation configuration evidence
-* Lifecycle workflow screenshots
+* Lifecycle workflow screenshot
+![Provisioning Audit Log](evidence/screenshots/day1/09-provisioning-audit-log.png)
 
----
-
-# Screenshots and Evidence
-
-The project includes:
-
-* IAM federation screenshots
-* SCIM provisioning evidence
-* RBAC governance screenshots
-* Lifecycle automation execution
-* Audit logging evidence
-* AWS permission set mappings
-* Enterprise identity architecture screenshots
+![Leaver Audit Log](evidence/screenshots/day2/13-leaver-audit-log.png)
 
 ---
 
